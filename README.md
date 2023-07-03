@@ -1,6 +1,15 @@
  <h1 align="center">Hi 👋, I'm Azmal Gazi</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
+![I am GitHub Readme Generator's creator]( https://media.licdn.com/dms/image/D5622AQGjyPVqq5pYvg/feedshare-shrink_160/0/1686198509079?e=1691020800&v=beta&t=9fYu27ifhIZF4ko3eyY7dWGxUSmFcbW4yyDsBL91XZg)
+
+ Hello, and welcome to my  Github profile! I'm Azmal Gazi, a dedicated junior Full Stack Developer. With a solid foundation in MongoDB, Express.js, React.js, and Node.js, I am eager to contribute my skills and grow in the field of web development.
+
+I have practical experience building web applications using the MERN stack, with a strong understanding of front-end technologies like HTML, CSS, React Bootstrap, Tailwindcss, DaisyUi, and JavaScript. I create interactive user interfaces using React.js, and handle database operations with Express.js and Node.js.
+
+Thank you for visiting my profile! I look forward to connecting with fellow professionals, mentors, and potential employers to grow and learn together in the dynamic field of web development
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmal&label=Profile%20views&color=0e75b6&style=flat" alt="azmal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmal" alt="azmal" /></a> </p>
