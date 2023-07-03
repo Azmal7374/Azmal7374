@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Azmal Gazi</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-![I am GitHub Readme Generator's creator]( https://media.licdn.com/dms/image/D5622AQGjyPVqq5pYvg/feedshare-shrink_160/0/1686198509079?e=1691020800&v=beta&t=9fYu27ifhIZF4ko3eyY7dWGxUSmFcbW4yyDsBL91XZg)
+![I am GitHub Readme Generator's creator]( https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 
  Hello, and welcome to my  Github profile! I'm Azmal Gazi, a dedicated junior Full Stack Developer. With a solid foundation in MongoDB, Express.js, React.js, and Node.js, I am eager to contribute my skills and grow in the field of web development.
 
