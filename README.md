@@ -38,8 +38,7 @@ Thank you for visiting my profile! I look forward to connecting with fellow prof
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azmal7374)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azmal7374&show_icons=true&count_private=true)  
-
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmal&show_icons=true&locale=en&layout=compact" alt="azmal" /></p>
 
