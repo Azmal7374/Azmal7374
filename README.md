@@ -19,11 +19,11 @@ Thank you for visiting my profile! I look forward to connecting with fellow prof
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://stupendous-crepe-ac0cf9.netlify.app/](https://stupendous-crepe-ac0cf9.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://eclectic-kringle-31632b.netlify.app/)
 
 - 📫 How to reach me **azmalgazi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1id4scpRRr5Qw-AYWelLBCj3zmF09v111/view?usp=sharing](https://drive.google.com/file/d/1id4scpRRr5Qw-AYWelLBCj3zmF09v111/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wfpqJTtff0TnpwgaVG2pa3yLAAppUrNb/view)
 
 - ⚡ Fun fact **🤔🤔🤔**
 
