@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Azmal Gazi</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 ![I am GitHub Readme Generator's creator]( https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 
 <h3 align="left">🚀 About Me:</h3>
- Hello, and welcome to my  Github profile! I'm Azmal Gazi, a dedicated junior Full Stack Developer. With a solid foundation in MongoDB, Express.js, React.js, and Node.js, I am eager to contribute my skills and grow in the field of web development.
+ Hello, and welcome to my  Github profile! I'm Azmal Gazi, a dedicated MERN Stack Developer. With a solid foundation in MongoDB, Express.js,Typescript, Redux, React.js, and Node.js, I am eager to contribute my skills and grow in the field of web development.
 
 I have practical experience building web applications using the MERN stack, with a strong understanding of front-end technologies like HTML, CSS, React Bootstrap, Tailwindcss, DaisyUi, and JavaScript. I create interactive user interfaces using React.js, and handle database operations with Express.js and Node.js.
 
@@ -21,7 +21,7 @@ Thank you for visiting my profile! I look forward to connecting with fellow prof
 
 - 👨‍💻 All of my projects are available at [https://eclectic-kringle-31632b.netlify.app/)
 
-- 📫 How to reach me **azmalgazi@gmail.com**
+- 📫 How to reach me **azmalgazi8@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wfpqJTtff0TnpwgaVG2pa3yLAAppUrNb/view)
 
