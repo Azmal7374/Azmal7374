@@ -17,9 +17,9 @@ Thank you for visiting my profile! I look forward to connecting with fellow prof
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://eclectic-kringle-31632b.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-azmal7374s-projects.vercel.app/)
 
 - 📫 How to reach me **azmalgazi8@gmail.com**
 
