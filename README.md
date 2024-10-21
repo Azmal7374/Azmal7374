@@ -4,9 +4,11 @@
 ![I am GitHub Readme Generator's creator]( https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg)
 
 <h3 align="left">🚀 About Me:</h3>
- Hello, and welcome to my  Github profile! I'm Azmal Gazi, a dedicated MERN Stack Developer. With a solid foundation in MongoDB, Express.js,Typescript, Redux, React.js, and Node.js, I am eager to contribute my skills and grow in the field of web development.
+ Hello, and welcome to my GitHub profile! I'm Azmal Gazi, a dedicated MERN Stack Developer with a growing skill set. My expertise spans MongoDB, Express.js, TypeScript, Redux, React.js, and Node.js, and I'm always eager to contribute and grow in the field of web development.
 
-I have practical experience building web applications using the MERN stack, with a strong understanding of front-end technologies like HTML, CSS, React Bootstrap, Tailwindcss, DaisyUi, and JavaScript. I create interactive user interfaces using React.js, and handle database operations with Express.js and Node.js.
+I have hands-on experience building web applications using the MERN stack, with a strong foundation in front-end technologies like HTML, CSS, React Bootstrap, Tailwind CSS, DaisyUI, and JavaScript. I craft interactive user interfaces with React.js and manage backend operations using Express.js and Node.js.
+
+Recently, I've expanded my skill set to include Mongoose, Next.js, Redux, Shadcn, NextUI, and Ant Design. Thank you for visiting my profile! I look forward to connecting with professionals, mentors, and potential employers as we grow and learn together in this dynamic field.
 
 Thank you for visiting my profile! I look forward to connecting with fellow professionals, mentors, and potential employers to grow and learn together in the dynamic field of web development
 
